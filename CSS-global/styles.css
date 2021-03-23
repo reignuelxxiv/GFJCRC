@@ -22,9 +22,6 @@
   position: absolute;
   padding: 3% 4% 0;
 }
-/* .nav-btn{
-  margin-left:   5%;
-} */
 
 #activities{
   color: #fff;
@@ -95,7 +92,7 @@
   font-family: "Raleway";
   padding: 4%;
 }
-.row{
+.row--church{
   padding-bottom: 50px;
 }
 .par{
@@ -110,4 +107,53 @@
 }
 .row3{
   background-color: #e3fdfd;
+}
+
+@media (max-width: 900px) {
+  #church-name{
+    position: absolute;
+    margin-top: 30%;
+  }
+.font{
+    font-size: 2rem;
+  }
+  #activities{
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    margin-top: 330px;
+    margin-left: 3%;
+    font-family: "Open Sans Condensed";
+  }
+  .rework{
+    position: absolute;
+    height: 50px;
+    font-size: 1rem;
+    padding-top: 5px;
+  }
+
+  .work1{
+    width: 75px;
+    background-color: #a7c5eb;
+  }
+  .work2{
+    width: 100px;
+    background-color: #709fb0;
+    margin-left: 75px;
+  }
+  .work3{
+    width: 125px;
+    background-color: #4a47a3;
+    margin-left: 175px;
+  }
+  .work4{
+    width: 175px;
+    background-color: #413c69;
+    margin-left: 300px;
+  }
+.car-font{
+  text-align: center;
+  font-size: 1rem;
+  width: 100%;
+}
 }
