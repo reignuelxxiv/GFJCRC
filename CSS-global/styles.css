@@ -109,7 +109,7 @@
   background-color: #e3fdfd;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 764px) {
   #church-name{
     position: absolute;
     margin-top: 30%;
