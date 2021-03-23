@@ -1,0 +1,113 @@
+.car-font{
+  font-size: 1.5rem;
+  position: fixed;
+  margin-top: 500px;
+  padding-left: 5%;
+  font-family: "Raleway";
+}
+
+#church-name{
+  color: #8ac4d0;
+  width: 100%;
+  position: absolute;
+  margin-top: 12%;
+  padding-left: 3%;
+  font-family: "Raleway";
+}
+.font{
+  font-size: 5rem;
+}
+.navigate{
+  width: 100%;
+  position: absolute;
+  padding: 3% 4% 0;
+}
+/* .nav-btn{
+  margin-left:   5%;
+} */
+
+#activities{
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  margin-top: 370px;
+  margin-left: 5%;
+  font-family: "Open Sans Condensed";
+}
+.rework{
+  position: absolute;
+  height: 50px;
+  font-size: 1.5rem;
+  padding-top: 5px;
+}
+
+.work1{
+  width: 125px;
+  background-color: #a7c5eb;
+}
+.work2{
+  width: 150px;
+  background-color: #709fb0;
+  margin-left: 125px;
+}
+.work3{
+  width: 200px;
+  background-color: #4a47a3;
+  margin-left: 275px;
+}
+.work4{
+  width: 250px;
+  background-color: #413c69;
+  margin-left: 475px;
+}
+
+.back2{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+.about{
+  position: relative;
+  font-family: "Open Sans Condensed";
+  margin-left: 70%;
+  margin-top: 35%;
+}
+
+/* CHURCHES */
+#chuches-family{
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  padding: 100px 70px 0;
+  margin-top: 20px;
+  text-align: center;
+}
+.picture{
+  height: 300px;
+}
+.image{
+  margin: 25px 0 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.church-name{
+  font-family: "Raleway";
+  padding: 4%;
+}
+.row{
+  padding-bottom: 50px;
+}
+.par{
+  font-family: "Open Sans";
+}
+
+.row1{
+  background-color: #e3fdfd;
+}
+.row2{
+  background-color: #fff;
+}
+.row3{
+  background-color: #e3fdfd;
+}
